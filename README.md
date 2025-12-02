@@ -11,6 +11,7 @@ Este portfolio reúne mis principales proyectos desarrollados durante mi formaci
 * JavaScript
 * Git & GitHub
 * Vercel
+* Todos los proyectos echos con VisualStudioCode
 
 ---
 

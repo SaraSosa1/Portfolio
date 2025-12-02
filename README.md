@@ -16,7 +16,7 @@ Este portfolio reúne mis principales proyectos desarrollados durante mi formaci
 
 ## 📚 Proyectos incluidos
 
-### 1️⃣ Proyecto Final
+### 1️⃣ HarryPotter (HTML, CSS, SASS)
 
 * Deploy: [https://proyecto-final-coral-phi.vercel.app/](https://proyecto-final-coral-phi.vercel.app/)
 * Repositorio: [https://github.com/SaraSosa1/ProyectoFinal](https://github.com/SaraSosa1/ProyectoFinal)
@@ -24,7 +24,7 @@ Este portfolio reúne mis principales proyectos desarrollados durante mi formaci
 
 ---
 
-### 2️⃣ Ecommerce 88020
+### 2️⃣ MartyBakery (JavaScript, React, Vite)
 
 * Deploy: [https://ecommerce-88020-sara-sosa-l6k209iv3-sara-sosas-projects.vercel.app/](https://ecommerce-88020-sara-sosa-l6k209iv3-sara-sosas-projects.vercel.app/)
 * Repositorio: [https://github.com/SaraSosa1/ecommerce-88020-SaraSosa](https://github.com/SaraSosa1/ecommerce-88020-SaraSosa)
@@ -32,7 +32,7 @@ Este portfolio reúne mis principales proyectos desarrollados durante mi formaci
 
 ---
 
-### 3️⃣ Mi Página de Dibujos
+### 3️⃣ Mi Página de Dibujos (JavaScript, HTML, CSS)
 
 * Deploy: [https://m-ipaginadedibujos.vercel.app/](https://m-ipaginadedibujos.vercel.app/)
 * Repositorio: [https://github.com/SaraSosa1/MIpaginadedibujos](https://github.com/SaraSosa1/MIpaginadedibujos)

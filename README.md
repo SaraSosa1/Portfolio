@@ -5,7 +5,7 @@ Este portfolio reúne mis principales proyectos desarrollados durante mi formaci
 
 ## 🚀 Tecnologías del Portfolio
 
-* React / Next.js
+* React / React.js
 * Vite
 * Tailwind CSS
 * JavaScript
